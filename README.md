@@ -18,7 +18,9 @@ La llista de clients es troba a un arxiu CSV CuaClients.csv on cada fila consta 
  02;5
  ...
  
-Aquestes dades es carreguen a un cua concurrent *ConcurrentQueue* que permet que els diferents Threads accedeixin a la cua sense que es presentin problemes de concurrència. Les dues accions que es faran sobre aquesta cua serà afegir elements *Enqueue(element)* i extreure elements de la cua *TryDequeue(out element)*. En teniu més informació sobre aquestes col·leccions a 
+L'arxiu ja es troba a la *ruta bin/debug* del vostre projecte però podeu fer proves creant d'altres arxius!
+
+Aquestes dades es carreguen a un cua concurrent *ConcurrentQueue* que permet que els diferents Threads accedeixin a la cua sense que es presentin problemes de concurrència. Les dues accions que es faran sobre aquesta cua serà afegir elements *Enqueue(element)* i extreure elements de la cua *TryDequeue(out element)*. En teniu més informació sobre aquestes col·leccions a [MDSN ConcurrentQueue](https://msdn.microsoft.com/en-us/library/dd267265(v=vs.110).aspx)
  
  
  Cal que completeu el codi per tal que el programa funcioni amb un Thread per cadascuna de les caixeres. Obtenint un resultat com el següent:
