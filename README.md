@@ -14,9 +14,11 @@ Es defineix una classe "Caixera" que té com atribut un int Id per identificar c
 "GestioProducte" simula el procés de l'escàner i introdueix una espera de 1 s.
 
 La llista de clients es troba a un arxiu CSV CuaClients.csv on cada fila consta de dos camps separats per ; indicant el IdClient i el nombre de articles:
- 01;12
- 02;5
- ...
+
+ > 01;12
+ > 02;5
+ > 03;7
+ > ...
  
 L'arxiu ja es troba a la *ruta bin/debug* del vostre projecte però podeu fer proves creant d'altres arxius!
 
