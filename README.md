@@ -41,3 +41,5 @@ Habitueu-vos a fer commits i git push cada cop que codifiqueu una part del probl
 Per lliurar la pràctica, un cop tingueu la solució definitiva al vostre repositori GitHub feu un **New Pull Request**. Fareu una defensa de la pràctica on mostrareu el funcionament i on haureu de respondre les preguntes per part dels professors.
 ![Pull Request](img/practica02.png)
 
+Al moodle pugeu el projecte en format ZIP
+
