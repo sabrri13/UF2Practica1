@@ -19,6 +19,7 @@ La llista de clients es troba a un arxiu CSV CuaClients.csv on cada fila consta 
 ##Procediment
 Per començar heu de fer un Fork al vostre GitHub i treballar a partir del vostre fork clonant-lo en el vostre ordinador, **no cloneu directament aquest repositori al vostre ordinador**
 
+
 Habitueu-vos a fer commits i git push cada cop que codifiqueu una part del problema, sobretot cada dia al finalitzar la feina.
 
 ##Lliurament
