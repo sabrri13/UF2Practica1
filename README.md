@@ -15,3 +15,12 @@ La llista de clients es troba a un arxiu CSV CuaClients.csv on cada fila consta 
  ...
  
  Cal que completeu el codi per tal que el programa funcioni amb un Thread per cadascuna de les caixeres
+
+#Procediment
+Per començar heu de fer un Fork al vostre GitHub i treballar a partir del vostre fork clonant-lo en el vostre ordinador, **no cloneu directament aquest repositori al vostre ordinador**
+
+Habitueu-vos a fer commits i git push cada cop que codifiqueu una part del problema, sobretot cada dia al finalitzar la feina.
+
+#Lliurament
+Per lliurar la pràctica, un cop tingueu la solució definitiva al vostre repositori GitHub feu un **New Pull Request**. Fareu una defensa de la pràctica on mostrareu el funcionament i on haureu de respondre les preguntes per part dels professors.
+
