@@ -15,6 +15,7 @@ La llista de clients es troba a un arxiu CSV CuaClients.csv on cada fila consta 
  ...
  
  Cal que completeu el codi per tal que el programa funcioni amb un Thread per cadascuna de les caixeres. Obtenint un resultat com el següent:
+ 
  ![Resultat](https://github.com/carlesalonso/UF2Practica1/blob/master/img/pract03.png)
 ##Procediment
 Per començar heu de fer un Fork al vostre GitHub i treballar a partir del vostre fork clonant-lo en el vostre ordinador, **no cloneu directament aquest repositori al vostre ordinador**
